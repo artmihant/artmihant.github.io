@@ -1,0 +1,1 @@
+import{S as r,a,V as s,_ as t}from"./Renderer-db4bfc22.js";import{e as o,o as p,d as l}from"./index-e7f56d08.js";const f={__name:"SimplexPage",setup(c){const{plot:e}=r();return o(()=>{e.addHyperFigure("alpha/Simplex",a(new s(0,0,0,0),1),!0),e.addHyperFigure("beta/Simplex",a(new s(0,0,0,0),1),!1),e.switch("alpha",!1)}),(n,i)=>(p(),l(t,{class:"flex-1"}))}};export{f as default};
