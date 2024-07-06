@@ -1,1 +1,0 @@
-import{B as o,C as c,o as e,c as s,f as a,F as l,r as u,e as i,D as _,t as r}from"./index-04e2ec6b.js";const x={__name:"StatisticsPage",setup(d){const n=o(c(_,"users"));return(m,p)=>(e(),s("div",null,[a("{ "),(e(!0),s(l,null,u(i(n),(t,f)=>(e(),s("div",null,' "'+r(t.id)+'" : '+r(t)+", ",1))),256)),a(" } ")]))}};export{x as default};
